@@ -1,0 +1,8 @@
+django
+markdown
+psycopg2
+python-dotenv
+setuptools
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
